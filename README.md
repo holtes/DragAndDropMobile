@@ -15,3 +15,5 @@
 
 ## Ссылка на проект
 https://disk.yandex.ru/d/u0iPS2lcP4k3NQ
+## Ссылка на демо-видео
+https://disk.yandex.ru/i/WQcJMynvC1MLlw
